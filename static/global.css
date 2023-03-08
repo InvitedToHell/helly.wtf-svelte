@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Victor Mono";
-    src: url("https://helly.wtf/fonts/victormono-regular-webfont.woff") format("woff");
+    src: url("/fonts/victormono-regular-webfont.woff") format("woff");
   }
   
   @font-face {
     font-family: "Victor Mono Italic";
-    src: url("https://helly.wtf/fonts/victormono-italic-webfont.woff") format("woff");
+    src: url("/fonts/victormono-italic-webfont.woff") format("woff");
   }
   
   body {
